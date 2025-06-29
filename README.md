@@ -30,6 +30,8 @@ After downloading the project files, run the main Python script to start the pro
    - The simulation function runs many iterations automatically to generate statistical results.
    - The interactive game supports user input and error checking to ensure valid door choices and decisions.
 
+---
+
 ## Requirements
    - Python 3.x (no additional libraries required).
    - The project is lightweight and runs in any standard Python environment.
