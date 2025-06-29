@@ -20,3 +20,8 @@ Users can either run a large-scale simulation to observe probabilities or play t
    ```bash
    git clone https://github.com/Cay00/monty-hall-simulation.git
    cd monty-hall-simulation
+
+2. Run the program:
+
+   ```bash
+   python MontyHallProblem/monty_hall.py
