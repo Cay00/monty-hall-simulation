@@ -25,3 +25,8 @@ Users can either run a large-scale simulation to observe probabilities or play t
 
    ```bash
    python MontyHallProblem/monty_hall.py
+
+3. Follow the on-screen prompts to either:
+
+   Run a large-scale simulation showing win probabilities, or
+   Play the Monty Hall interactive game in the console.
