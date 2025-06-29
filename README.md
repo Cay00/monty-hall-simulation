@@ -18,5 +18,5 @@ Users can either run a large-scale simulation to observe probabilities or play t
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/monty-hall.git
-   cd monty-hall
+   git clone https://github.com/Cay00/monty-hall-simulation.git
+   cd monty-hall-simulation
